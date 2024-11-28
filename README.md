@@ -28,6 +28,8 @@ Check out the demo video of the project [here](https://drive.google.com/file/d/1
 - Scrapping Data
 - Html
 - Css
+- Selenuim
+- Beautiful Soup
 
 ## Contributing
 
